@@ -1,24 +1,25 @@
-# Basic Knowledge
----
+# Basic General Knowledge
 1. Variables and Data Types
 3. Operators
-4. Control Structures (if-else, switch, loops)
+4. Control Structures
 5. Arrays and Collections
 6. Methods and Functions
 7. Exceptions
-8. Generics
-9. Delegates
-10. Lambda Expressions
-11. LINQ (Language Integrated Query)
-12. Attributes
-13. Reflection
-14. Asynchronous Programming (async-await)
-15. Garbage Collection
-16. Structs
-17. Namespaces
-18. Dynamic Programming
-# Object-Oriented Programming
----
+
+# Advanced General Knowledge
+1. Generics
+2. Delegates
+3. Lambda Expressions
+4. LINQ (Language Integrated Query)
+5. Attributes
+6. Reflection
+7. Asynchronous Programming (async-await)
+8. Garbage Collection
+9. Structs
+10. Namespaces
+11. Dynamic Programming
+
+# Basic Object-Oriented Programming
 1. [[Classes and Objects]]
 2. [[Encapsulation]]
 3. [[Inheritance]]
@@ -27,9 +28,9 @@
 6. [[Constructors]]
 7. [[Properties]]
 8. [[Interfaces]]
-9.  Enums
-# Advanced OOP
----
+9. [[Enums]]
+
+# Advanced Object-Oriented Programming
 1. Composition
 2. Aggregation
 3. Design Patterns
