@@ -3,9 +3,7 @@ Is a special method or function within a class that is used to initialize and cr
 The constructor has the same name as the class and is typically used to set initial values for the object's attributes or to perform any necessary setup tasks. It helps ensure that the object being created is in a valid and usable state.
 
 # Constructor Overloading
-Is a special method or function within a class that is used to initialize and create objects of that class. When an object is instantiated or created from a class, the constructor is called automatically.
-
-The constructor has the same name as the class and is typically used to set initial values for the object's attributes or to perform any necessary setup tasks. It helps ensure that the object being created is in a valid and usable state.
+Constructor overloading is the act of providing more than one way to initialize an object.  So, the instance don't compulsorily need to have all the fields filled to be considered valid or usable.
 
 ```csharp
 public class Person

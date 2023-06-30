@@ -5,13 +5,17 @@ An object, on the other hand, is an instance of a class. It is a concrete repres
 ```csharp
 class Car 
 {
-  string color = "red";
+	string color = "red";
+}
 
-  static void Main(string[] args)
-  {
-    Car myObj = new Car();
-    Console.WriteLine(myObj.color);
-  }
+class Program 
+{
+	static void Main(string[] args)
+	{
+		Car myObj = new Car();
+		Console.WriteLine(myObj.color); 
+		// output: red
+	}
 }
 ```
 
@@ -29,17 +33,19 @@ In the context of object-oriented programming, a "member" refers to any element 
 ```csharp
 class Car 
 {
-  string color;                 // field
-  int maxSpeed;                 // field
-  public void fullThrottle()    // method
-  {
-    Console.WriteLine("The car is going as fast as it can!"); 
-  }
-
-  static void Main(string[] args)
-  {
-    Car myObj = new Car();
-    myObj.fullThrottle();  // Call the method
-  }
+	string color;                 // field
+	int maxSpeed;                 // field
+	public void fullThrottle()    // method
+	{
+		Console.WriteLine("The car is going fast!"); 
+	}
+} 
+class Program
+{
+	static void Main(string[] args)
+	{
+		Car myObj = new Car();
+		myObj.fullThrottle();  // Call the method
+	}
 }
 ```
