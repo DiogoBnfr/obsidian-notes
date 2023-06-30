@@ -1,3 +1,4 @@
+# Abstraction
 In object-oriented programming (OOP), abstraction is a concept that allows you to create models or representations of real-world objects or concepts in a simplified and generalized manner. It involves capturing only the essential characteristics and behaviors of an object while hiding the unnecessary details.
 
 Abstraction helps you manage complexity by focusing on what an object does rather than how it does it. It provides a way to define common interfaces, base classes, or abstract classes that represent a group of related objects with shared behaviors. These abstractions serve as blueprints or contracts that define the expected functionality without specifying the exact implementation.

@@ -1,3 +1,4 @@
+# Classes and Objects
 A class is a blueprint or a template that defines the structure and behavior of objects. It specifies the properties (attributes) and actions (methods) that objects of that class can have.
 
 An object, on the other hand, is an instance of a class. It is a concrete representation of the class, created based on the class definition. When you create an object, you allocate memory for it, and the object holds the actual data and provides the behavior defined by the class.
@@ -19,7 +20,7 @@ class Program
 }
 ```
 
-# Members
+# Class Members
 In the context of object-oriented programming, a "member" refers to any element or component that belongs to a class or struct. Members are the building blocks of a class or struct and define its properties, methods, fields, events, and nested types.
 
 1. **Methods**: Methods are functions defined within a class that perform specific actions or computations. They are typically used to encapsulate behavior and provide functionality.

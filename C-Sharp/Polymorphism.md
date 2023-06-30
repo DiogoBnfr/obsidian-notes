@@ -1,3 +1,4 @@
+# Polymorphism
 Is a core concept in object-oriented programming that allows objects of different classes to be treated as objects of a common base class. It enables you to write code that can work with objects of multiple types, providing flexibility, extensibility, and code reusability.
 
 At its core, polymorphism allows you to perform operations on objects without knowing their specific types but rather relying on their shared interface or base class. This concept is often summarized as "one interface, multiple implementations".

@@ -1,3 +1,4 @@
+# Properties
 Properties provide a way to encapsulate the access to class fields or variables. They are used to define the external interface for accessing and modifying the values of private fields in an object.
 
 Properties combine the features of fields and methods, allowing you to control how values are read from or written to the underlying fields. They provide a level of abstraction that helps maintain encapsulation and enables you to add additional logic or validation when accessing or modifying the values.

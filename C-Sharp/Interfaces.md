@@ -1,6 +1,6 @@
+# Interfaces
 Is a construct that defines a contract or a set of members that a class must implement. It acts as a blueprint for classes and provides a way to define common behavior without specifying the implementation details.
 
-# Defining an Interface
 To define an interface in C#, you use the *interface* keyword followed by the interface name. For example:
 
 ```csharp

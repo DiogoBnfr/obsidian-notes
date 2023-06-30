@@ -1,3 +1,4 @@
+# Enums
 Is a short name for "enumeration". Is a distinct type that represents a set of named constants. It allows you to define a set of related values that can be assigned to a variable, parameter, or property. Enums are useful when you have a fixed set of values that a variable can take, providing clarity and type safety in your code.
 
 ```csharp
